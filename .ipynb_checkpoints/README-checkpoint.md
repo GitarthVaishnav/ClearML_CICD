@@ -1,4 +1,5 @@
-# Added some changes to readme file
+# Made some changes to the README
+
 # ClearML ML Model CI/CD Pipeline README
 
 ## Introduction
