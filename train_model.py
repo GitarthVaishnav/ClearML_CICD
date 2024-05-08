@@ -20,3 +20,5 @@ def train_and_evaluate(task):
     task.get_logger().report_scalar("test_accuracy", "accuracy", accuracy, iteration=0)
     print(f"Test Accuracy: {accuracy:.4f}")
     print("Experiment done!")
+
+#test
